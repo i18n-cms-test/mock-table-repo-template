@@ -3,7 +3,7 @@
     "en",
     "zh"
   ],
-  "fileType": "json",
+  "fileType": "json_flatten",
   "pattern": ":lng/:ns",
   "defaultLanguage": "en"
 }
